@@ -3,4 +3,7 @@
   <Project Path="Biblioteca.Data/Biblioteca.Data.csproj" />
   <Project Path="Biblioteca.Domain/Biblioteca.Domain.csproj" />
   <Project Path="Biblioteca.Presentations/Biblioteca.Presentations.csproj" />
+  <Properties Name="SolutionProperties">
+    <Property Name="WorkspaceFolder" Value="." />
+  </Properties>
 </Solution>

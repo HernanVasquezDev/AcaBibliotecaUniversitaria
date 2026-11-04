@@ -1,9 +1,8 @@
 using Biblioteca.Data.Database;
-using Biblioteca.Presentations;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Biblioteca.Presentation
+namespace Biblioteca.Presentations
 {
     internal static class Program
     {
