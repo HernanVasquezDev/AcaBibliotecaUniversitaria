@@ -1,6 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AcaBiblioteca",
+    "\\AcaBiblioteca\\AcaBiblioteca",
+    "\\AcaBiblioteca\\AcaBiblioteca\\Datos",
+    "\\Actividad Semana 5",
+    "\\Actividad Semana 5\\Códigos Crud",
+    "\\Actividad Semana 5\\Interfaces",
+    "\\Plantilla Markdown"
   ],
+  "SelectedNode": "\\Documentacion.md",
   "PreviewInSolutionExplorer": false
 }
