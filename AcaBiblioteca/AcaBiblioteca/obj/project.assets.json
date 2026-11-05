@@ -1040,24 +1040,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vcast\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\dev\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vcast\\Documents\\GitHub\\SwBiblioteca\\AcaBiblioteca\\AcaBiblioteca\\AcaBiblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\AcaBiblioteca.csproj",
       "projectName": "AcaBiblioteca",
-      "projectPath": "C:\\Users\\vcast\\Documents\\GitHub\\SwBiblioteca\\AcaBiblioteca\\AcaBiblioteca\\AcaBiblioteca.csproj",
-      "packagesPath": "C:\\Users\\vcast\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vcast\\Documents\\GitHub\\SwBiblioteca\\AcaBiblioteca\\AcaBiblioteca\\obj\\",
+      "projectPath": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\AcaBiblioteca.csproj",
+      "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\vcast\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1065,7 +1060,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1120,7 +1114,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
