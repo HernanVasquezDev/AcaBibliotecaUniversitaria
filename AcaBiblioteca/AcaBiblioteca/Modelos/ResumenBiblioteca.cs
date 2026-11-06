@@ -10,7 +10,8 @@ namespace AcaBiblioteca.Modelos
         public int TotalUsuarios { get; set; }
         public int PrestamosActivos { get; set; }
         public int PrestamosDevueltos { get; set; }
-        /// <summary>Propiedad calculada que indica el total de préstamos (activos + devueltos).</summary>
+        /// <summary>Propiedad calculada que indica el total de prï¿½stamos (activos + devueltos).</summary>
+
         public int TotalPrestamos => PrestamosActivos + PrestamosDevueltos;
     }
 }

@@ -9,12 +9,12 @@ namespace AcaBiblioteca.Modelos
 
         private string _nombre = string.Empty;
 
-        // constructor sin parámetros
+        // constructor sin parï¿½metros
         public Editorial()
         {
         }
 
-        // constructor con todos los campos, excepto el IdEditorial, que se asigna automáticamente al insertar en la base de datos
+        // constructor con todos los campos, excepto el IdEditorial, que se asigna automï¿½ticamente al insertar en la base de datos
         public Editorial(string nombre)
         {
             Nombre = nombre;
