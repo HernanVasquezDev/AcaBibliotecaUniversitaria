@@ -3,6 +3,70 @@
   "WorkspaceRootPath": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Negocio\\UsuarioServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcaBiblioteca\\AcaBiblioteca\\Negocio\\UsuarioServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Negocio\\ReporteServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcaBiblioteca\\AcaBiblioteca\\Negocio\\ReporteServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Negocio\\PrestamoServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcaBiblioteca\\AcaBiblioteca\\Negocio\\PrestamoServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Negocio\\LibroServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcaBiblioteca\\AcaBiblioteca\\Negocio\\LibroServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Negocio\\EditorialServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcaBiblioteca\\AcaBiblioteca\\Negocio\\EditorialServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Negocio\\AutorServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcaBiblioteca\\AcaBiblioteca\\Negocio\\AutorServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Modelos\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcaBiblioteca\\AcaBiblioteca\\Modelos\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Modelos\\ResumenBiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcaBiblioteca\\AcaBiblioteca\\Modelos\\ResumenBiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Modelos\\Prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcaBiblioteca\\AcaBiblioteca\\Modelos\\Prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Modelos\\Persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcaBiblioteca\\AcaBiblioteca\\Modelos\\Persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Modelos\\Libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcaBiblioteca\\AcaBiblioteca\\Modelos\\Libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Modelos\\EstadoPrestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcaBiblioteca\\AcaBiblioteca\\Modelos\\EstadoPrestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Modelos\\Editorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcaBiblioteca\\AcaBiblioteca\\Modelos\\Editorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Modelos\\Autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcaBiblioteca\\AcaBiblioteca\\Modelos\\Autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Properties\\Resources.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcaBiblioteca\\AcaBiblioteca\\Properties\\Resources.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Datos\\Conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcaBiblioteca\\AcaBiblioteca\\Datos\\Conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\AcaBiblioteca.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcaBiblioteca\\AcaBiblioteca\\AcaBiblioteca.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
@@ -13,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcaBiblioteca\\AcaBiblioteca\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Datos\\Conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcaBiblioteca\\AcaBiblioteca\\Datos\\Conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBibliotecaUniversitaria.Domain\\Biblioteca.Presentations\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -74,24 +134,223 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UsuarioServicio.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Negocio\\UsuarioServicio.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\AcaBiblioteca\\Negocio\\UsuarioServicio.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Negocio\\UsuarioServicio.cs",
+              "RelativeToolTip": "AcaBiblioteca\\AcaBiblioteca\\Negocio\\UsuarioServicio.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswDgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T00:36:30.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReporteServicio.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Negocio\\ReporteServicio.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\AcaBiblioteca\\Negocio\\ReporteServicio.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Negocio\\ReporteServicio.cs",
+              "RelativeToolTip": "AcaBiblioteca\\AcaBiblioteca\\Negocio\\ReporteServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T00:33:59.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrestamoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Negocio\\PrestamoServicio.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\AcaBiblioteca\\Negocio\\PrestamoServicio.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Negocio\\PrestamoServicio.cs",
+              "RelativeToolTip": "AcaBiblioteca\\AcaBiblioteca\\Negocio\\PrestamoServicio.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAuwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T00:31:26.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibroServicio.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Negocio\\LibroServicio.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\AcaBiblioteca\\Negocio\\LibroServicio.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Negocio\\LibroServicio.cs",
+              "RelativeToolTip": "AcaBiblioteca\\AcaBiblioteca\\Negocio\\LibroServicio.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T00:30:15.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditorialServicio.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Negocio\\EditorialServicio.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\AcaBiblioteca\\Negocio\\EditorialServicio.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Negocio\\EditorialServicio.cs",
+              "RelativeToolTip": "AcaBiblioteca\\AcaBiblioteca\\Negocio\\EditorialServicio.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwDIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T00:29:16.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\AcaBiblioteca\\Modelos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Modelos\\Usuario.cs",
+              "RelativeToolTip": "AcaBiblioteca\\AcaBiblioteca\\Modelos\\Usuario.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwCIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T23:52:02.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutorServicio.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Negocio\\AutorServicio.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\AcaBiblioteca\\Negocio\\AutorServicio.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Negocio\\AutorServicio.cs",
+              "RelativeToolTip": "AcaBiblioteca\\AcaBiblioteca\\Negocio\\AutorServicio.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T00:18:22.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResumenBiblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Modelos\\ResumenBiblioteca.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\AcaBiblioteca\\Modelos\\ResumenBiblioteca.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Modelos\\ResumenBiblioteca.cs",
+              "RelativeToolTip": "AcaBiblioteca\\AcaBiblioteca\\Modelos\\ResumenBiblioteca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T23:52:01.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Modelos\\Prestamo.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\AcaBiblioteca\\Modelos\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Modelos\\Prestamo.cs",
+              "RelativeToolTip": "AcaBiblioteca\\AcaBiblioteca\\Modelos\\Prestamo.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T23:51:56.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Modelos\\Persona.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\AcaBiblioteca\\Modelos\\Persona.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Modelos\\Persona.cs",
+              "RelativeToolTip": "AcaBiblioteca\\AcaBiblioteca\\Modelos\\Persona.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T23:51:50.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Modelos\\Libro.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\AcaBiblioteca\\Modelos\\Libro.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Modelos\\Libro.cs",
+              "RelativeToolTip": "AcaBiblioteca\\AcaBiblioteca\\Modelos\\Libro.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T23:51:38.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EstadoPrestamo.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Modelos\\EstadoPrestamo.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\AcaBiblioteca\\Modelos\\EstadoPrestamo.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Modelos\\EstadoPrestamo.cs",
+              "RelativeToolTip": "AcaBiblioteca\\AcaBiblioteca\\Modelos\\EstadoPrestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T23:51:29.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Editorial.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Modelos\\Editorial.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\AcaBiblioteca\\Modelos\\Editorial.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Modelos\\Editorial.cs",
+              "RelativeToolTip": "AcaBiblioteca\\AcaBiblioteca\\Modelos\\Editorial.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACwAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T23:51:28.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Modelos\\Autor.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\AcaBiblioteca\\Modelos\\Autor.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Modelos\\Autor.cs",
+              "RelativeToolTip": "AcaBiblioteca\\AcaBiblioteca\\Modelos\\Autor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T23:51:19.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\AcaBiblioteca\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "AcaBiblioteca\\AcaBiblioteca\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T23:45:58.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "AcaBiblioteca.csproj.user",
               "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\AcaBiblioteca.csproj.user",
               "RelativeDocumentMoniker": "AcaBiblioteca\\AcaBiblioteca\\AcaBiblioteca.csproj.user",
               "ToolTip": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\AcaBiblioteca.csproj.user",
               "RelativeToolTip": "AcaBiblioteca\\AcaBiblioteca\\AcaBiblioteca.csproj.user",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
               "WhenOpened": "2026-11-04T23:59:57.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 17,
               "Title": "AcaBiblioteca.csproj",
               "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\AcaBiblioteca.csproj",
               "RelativeDocumentMoniker": "AcaBiblioteca\\AcaBiblioteca\\AcaBiblioteca.csproj",
@@ -104,20 +363,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Datos\\Conexion.cs",
               "RelativeDocumentMoniker": "AcaBiblioteca\\AcaBiblioteca\\Datos\\Conexion.cs",
               "ToolTip": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Datos\\Conexion.cs",
               "RelativeToolTip": "AcaBiblioteca\\AcaBiblioteca\\Datos\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-04T23:57:38.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBiblioteca\\AcaBiblioteca\\Program.cs",
               "RelativeDocumentMoniker": "AcaBiblioteca\\AcaBiblioteca\\Program.cs",
@@ -130,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBibliotecaUniversitaria.Domain\\Biblioteca.Presentations\\appsettings.json",
               "RelativeDocumentMoniker": "AcaBibliotecaUniversitaria.Domain\\Biblioteca.Presentations\\appsettings.json",
@@ -141,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 20,
               "Title": "Biblioteca.Data.csproj",
               "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBibliotecaUniversitaria.Domain\\Biblioteca.Data\\Biblioteca.Data.csproj",
               "RelativeDocumentMoniker": "AcaBibliotecaUniversitaria.Domain\\Biblioteca.Data\\Biblioteca.Data.csproj",
@@ -153,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 21,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBibliotecaUniversitaria.Domain\\Biblioteca.Data\\Class1.cs",
               "RelativeDocumentMoniker": "AcaBibliotecaUniversitaria.Domain\\Biblioteca.Data\\Class1.cs",
@@ -165,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 22,
               "Title": "database.cs",
               "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\database\\database.cs",
               "RelativeDocumentMoniker": "database\\database.cs",
@@ -177,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 24,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBibliotecaUniversitaria.Domain\\Biblioteca.Presentations\\Form1.cs",
               "RelativeDocumentMoniker": "AcaBibliotecaUniversitaria.Domain\\Biblioteca.Presentations\\Form1.cs",
@@ -189,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBibliotecaUniversitaria.Domain\\Biblioteca.Presentations\\Program.cs",
               "RelativeDocumentMoniker": "AcaBibliotecaUniversitaria.Domain\\Biblioteca.Presentations\\Program.cs",
@@ -201,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 27,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBibliotecaUniversitaria.Domain\\Biblioteca.Presentation\\Form1.cs",
               "RelativeDocumentMoniker": "AcaBibliotecaUniversitaria.Domain\\Biblioteca.Presentation\\Form1.cs",
@@ -212,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 29,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBibliotecaUniversitaria.Domain\\Biblioteca.Presentation\\appsettings.json",
               "RelativeDocumentMoniker": "AcaBibliotecaUniversitaria.Domain\\Biblioteca.Presentation\\appsettings.json",
@@ -223,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBibliotecaUniversitaria.Domain\\Biblioteca.Presentation\\Program.cs",
               "RelativeDocumentMoniker": "AcaBibliotecaUniversitaria.Domain\\Biblioteca.Presentation\\Program.cs",
@@ -234,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 26,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBibliotecaUniversitaria.Domain\\Biblioteca.Presentation\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "AcaBibliotecaUniversitaria.Domain\\Biblioteca.Presentation\\Form1.Designer.cs",
@@ -245,7 +504,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 28,
               "Title": "Biblioteca.Presentations.csproj",
               "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\AcaBibliotecaUniversitaria.Domain\\Biblioteca.Presentation\\Biblioteca.Presentations.csproj",
               "RelativeDocumentMoniker": "AcaBibliotecaUniversitaria.Domain\\Biblioteca.Presentation\\Biblioteca.Presentations.csproj",
@@ -256,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 30,
               "Title": "launch.vs.json",
               "DocumentMoniker": "C:\\Users\\dev\\Documents\\GitHub\\AcaBibliotecaUniversitaria\\.vs\\launch.vs.json",
               "RelativeDocumentMoniker": ".vs\\launch.vs.json",

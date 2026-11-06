@@ -2,23 +2,27 @@ using AcaBiblioteca.Excepciones;
 
 namespace AcaBiblioteca.Modelos
 {
+    /// <summary>Representa un préstamo de un libro a un usuario.</summary>
     public class Prestamo
     {
+        /// Campos privados para almacenar los valores de las propiedades
         private string _isbn = string.Empty;
 
+        /// <summary>Constructor sin parámetros que inicializa la fecha del préstamo y el estado.</summary>
         public Prestamo()
         {
             FechaPrestamo = DateTime.Today;
             Estado = EstadoPrestamo.Prestado;
         }
 
+        /// <summary>Constructor que inicializa el IdUsuario, ISBN y FechaPrestamo.</summary>
         public Prestamo(int idUsuario, string isbn, DateTime fechaPrestamo) : this()
         {
             IdUsuario = idUsuario;
             ISBN = isbn;
             FechaPrestamo = fechaPrestamo.Date;
         }
-
+        /// <summary>Constructor que inicializa todos los campos del préstamo.</summary>
         public int IdPrestamo { get; set; }
 
         public int IdUsuario { get; set; }
@@ -28,15 +32,17 @@ namespace AcaBiblioteca.Modelos
             get => _isbn;
             set => _isbn = value?.Trim() ?? string.Empty;
         }
-
+        //getters y setters
         public DateTime FechaPrestamo { get; set; }
 
         public DateTime? FechaDevolucion { get; set; }
 
         public string Estado { get; set; }
 
+        /// <summary>Propiedad calculada que indica si el préstamo está activo (no devuelto).</summary>
         public bool EstaActivo => Estado == EstadoPrestamo.Prestado;
 
+        /// <summary>Valida los datos del préstamo y lanza excepciones si hay errores.</summary>
         public void Validar()
         {
             if (IdUsuario <= 0)

@@ -3,20 +3,25 @@ using AcaBiblioteca.Utilidades;
 
 namespace AcaBiblioteca.Modelos
 {
+    /// <summary>Representa un libro de la biblioteca.</summary>
     public class Libro
     {
+        //getters y setters 
+        // Constantes para la validación de los campos
         public const int LongitudMaximaIsbn = 20;
         public const int LongitudMaximaTitulo = 200;
         public const int LongitudMaximaCategoria = 100;
 
+        // Campos privados para almacenar los valores de las propiedades
         private string _isbn = string.Empty;
         private string _titulo = string.Empty;
         private string _categoria = string.Empty;
 
+        // Constructor sin parámetros
         public Libro()
         {
         }
-
+        // Constructor con todos los campos, excepto el ISBN, que se asigna automáticamente al insertar en la base de datos
         public Libro(string isbn, string titulo, int idAutor, int idEditorial,
                      string categoria, int anio, int existencias)
         {
@@ -29,12 +34,13 @@ namespace AcaBiblioteca.Modelos
             Existencias = existencias;
         }
 
+        // Constructor con todos los campos, incluyendo el ISBN
         public string ISBN
         {
             get => _isbn;
             set => _isbn = value?.Trim() ?? string.Empty;
         }
-
+        //getters y setters
         public string Titulo
         {
             get => _titulo;
@@ -55,8 +61,10 @@ namespace AcaBiblioteca.Modelos
 
         public int Existencias { get; set; }
 
+        // Propiedad calculada que indica si hay existencias disponibles del libro
         public bool HayDisponibilidad => Existencias > 0;
 
+        // Método para validar los datos del libro, lanzando excepciones si algún dato no es válido
         public void Validar()
         {
             Validador.Requerido(ISBN, "El ISBN", LongitudMaximaIsbn);
