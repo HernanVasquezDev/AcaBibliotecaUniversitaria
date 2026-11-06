@@ -9,6 +9,10 @@ namespace AcaBiblioteca.Modelos
         private string _isbn = string.Empty;
 
         /// <summary>Constructor sin parámetros que inicializa la fecha del préstamo y el estado.</summary>
+    public class Prestamo
+    {
+        private string _isbn = string.Empty;
+
         public Prestamo()
         {
             FechaPrestamo = DateTime.Today;
@@ -23,6 +27,7 @@ namespace AcaBiblioteca.Modelos
             FechaPrestamo = fechaPrestamo.Date;
         }
         /// <summary>Constructor que inicializa todos los campos del préstamo.</summary>
+
         public int IdPrestamo { get; set; }
 
         public int IdUsuario { get; set; }
@@ -33,6 +38,7 @@ namespace AcaBiblioteca.Modelos
             set => _isbn = value?.Trim() ?? string.Empty;
         }
         //getters y setters
+
         public DateTime FechaPrestamo { get; set; }
 
         public DateTime? FechaDevolucion { get; set; }
@@ -43,6 +49,8 @@ namespace AcaBiblioteca.Modelos
         public bool EstaActivo => Estado == EstadoPrestamo.Prestado;
 
         /// <summary>Valida los datos del préstamo y lanza excepciones si hay errores.</summary>
+        public bool EstaActivo => Estado == EstadoPrestamo.Prestado;
+
         public void Validar()
         {
             if (IdUsuario <= 0)
