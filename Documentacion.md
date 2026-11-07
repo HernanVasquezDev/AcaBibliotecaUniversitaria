@@ -38,7 +38,7 @@ Barranquilla, 7/11/2026
 
 **Presentado por:**\
 Hernan Jose Vasquez Araujo
-
+Juan Danilo Rodriguez Caro
 **Docente:**\
 Veronica Castro
 
