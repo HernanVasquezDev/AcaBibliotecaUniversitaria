@@ -6,44 +6,44 @@
 
 ## PORTADA
 
-**\[NOMBRE DE LA INSTITUCIÓN\]**
+**Corporacion Universitaria Nacional De Educación Superiór**
 
-**\[PROGRAMA / CURSO\]**
+**Ingenieria De Sistemas - Programación Avanzada**
 
 ### ACA -- Programación Avanzada
 
 ### Sistema de Gestión de Biblioteca
 
 **Presentado por:**\
-\[Nombre completo del estudiante o integrantes\]
+Hernan Jose Vasquez Araujo
 
 **Docente:**\
-\[Nombre del docente\]
+Veronica Castro
 
 **Fecha:**\
-\[Ciudad, día, mes y año\]
+Barranquilla, 7/11/2026
 
 ------------------------------------------------------------------------
 ------------------------------------------------------------------------
 
 ## CONTRAPORTADA
 
-**\[NOMBRE DE LA INSTITUCIÓN\]**
+**Corporacion Universitaria Nacional De Educación Superiór**
 
-**\[PROGRAMA / CURSO\]**
+**Ingenieria De Sistemas - Programación Avanzada**
 
 ### ACA -- Programación Avanzada
 
 ### Sistema de Gestión de Biblioteca
 
 **Presentado por:**\
-\[Nombre completo del estudiante o integrantes\]
+Hernan Jose Vasquez Araujo
 
 **Docente:**\
-\[Nombre del docente\]
+Veronica Castro
 
 **Fecha:**\
-\[Ciudad, día, mes y año\]
+Barranquilla, 7/11/2026
 
 ------------------------------------------------------------------------
 ------------------------------------------------------------------------
