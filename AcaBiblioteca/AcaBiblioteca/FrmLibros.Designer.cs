@@ -99,7 +99,7 @@
             // 
             // btnBuscar
             // 
-            btnBuscar.Location = new Point(792, 32);
+            btnBuscar.Location = new Point(960, 32);
             btnBuscar.Name = "btnBuscar";
             btnBuscar.Size = new Size(112, 34);
             btnBuscar.TabIndex = 2;
@@ -109,20 +109,20 @@
             // 
             // txtBuscarISBN
             // 
-            txtBuscarISBN.Location = new Point(547, 34);
+            txtBuscarISBN.Location = new Point(640, 34);
             txtBuscarISBN.Name = "txtBuscarISBN";
-            txtBuscarISBN.Size = new Size(198, 31);
+            txtBuscarISBN.Size = new Size(300, 31);
             txtBuscarISBN.TabIndex = 1;
             // 
             // lblBuscar
             // 
             lblBuscar.AutoSize = true;
             lblBuscar.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            lblBuscar.Location = new Point(449, 37);
+            lblBuscar.Location = new Point(230, 37);
             lblBuscar.Name = "lblBuscar";
             lblBuscar.Size = new Size(54, 25);
             lblBuscar.TabIndex = 0;
-            lblBuscar.Text = "ISBN";
+            lblBuscar.Text = "Buscar por ISBN, título o autor :";
             // 
             // pnlDatos
             // 
@@ -148,6 +148,7 @@
             // 
             // cmbEditorial
             // 
+            cmbEditorial.DropDownStyle = ComboBoxStyle.DropDownList;
             cmbEditorial.FormattingEnabled = true;
             cmbEditorial.Location = new Point(634, 162);
             cmbEditorial.Name = "cmbEditorial";
@@ -156,6 +157,7 @@
             // 
             // cmbAutor
             // 
+            cmbAutor.DropDownStyle = ComboBoxStyle.DropDownList;
             cmbAutor.FormattingEnabled = true;
             cmbAutor.Location = new Point(634, 116);
             cmbAutor.Name = "cmbAutor";
@@ -361,13 +363,19 @@
             // 
             // dgvLibros
             // 
+            dgvLibros.AllowUserToAddRows = false;
+            dgvLibros.AllowUserToDeleteRows = false;
+            dgvLibros.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dgvLibros.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dgvLibros.MultiSelect = false;
+            dgvLibros.ReadOnly = true;
+            dgvLibros.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
             dgvLibros.Location = new Point(155, 579);
             dgvLibros.Name = "dgvLibros";
             dgvLibros.RowHeadersWidth = 62;
             dgvLibros.Size = new Size(1100, 260);
             dgvLibros.TabIndex = 4;
-            dgvLibros.CellDoubleClick += dgvLibros_CellDoubleClick;
+            dgvLibros.CellClick += dgvLibros_CellClick;
             // 
             // FrmLibros
             // 
