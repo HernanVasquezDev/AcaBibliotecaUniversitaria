@@ -16,7 +16,7 @@
 
 **Presentado por:**\
 Hernan Jose Vasquez Araujo
-
+Juan Danilo Rodríguez Caro
 **Docente:**\
 Veronica Castro
 
