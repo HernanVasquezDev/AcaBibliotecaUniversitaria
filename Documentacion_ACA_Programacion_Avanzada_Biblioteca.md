@@ -930,56 +930,31 @@ Se realizaron **pruebas funcionales manuales** de caja negra sobre cada módulo 
 
 ## 12.2 Casos de prueba
 
-> **Instrucciones:** ejecute cada caso en la aplicación, complete las columnas *Resultado obtenido* y *Estado* (Aprobado / Fallido) y agregue la captura de evidencia correspondiente.
-
 | ID | Funcionalidad | Entrada / Acción | Resultado esperado | Resultado obtenido | Estado |
 |---|---|---|---|---|---|
-| CP01 | Registrar libro | Datos válidos con ISBN nuevo | Libro registrado y visible en la tabla | _Completar_ | _Pendiente_ |
-| CP02 | Registrar libro | ISBN ya existente | Mensaje «Ya existe un libro con ese ISBN» | _Completar_ | _Pendiente_ |
-| CP03 | Registrar libro | Año con texto (por ejemplo, «abc») | Mensaje «El año debe ser un número entero» | _Completar_ | _Pendiente_ |
-| CP04 | Buscar libro | Texto parcial de título o autor | La tabla muestra solo las coincidencias | _Completar_ | _Pendiente_ |
-| CP05 | Registrar usuario | Datos válidos | Usuario registrado | _Completar_ | _Pendiente_ |
-| CP06 | Registrar usuario | Documento repetido | Mensaje «Ya existe un usuario con ese documento» | _Completar_ | _Pendiente_ |
-| CP07 | Registrar usuario | Correo sin formato válido (por ejemplo, «abc») | Mensaje de correo inválido | _Completar_ | _Pendiente_ |
-| CP08 | Registrar autor | Campos vacíos | Mensaje de campo obligatorio | _Completar_ | _Pendiente_ |
-| CP09 | Registrar editorial | Nombre ya existente | Mensaje «Ya existe una editorial con ese nombre» | _Completar_ | _Pendiente_ |
-| CP10 | Eliminar autor | Autor con libros asociados | Se impide la eliminación indicando cuántos libros tiene | _Completar_ | _Pendiente_ |
-| CP11 | Eliminar usuario | Usuario con préstamos | Se impide la eliminación indicando cuántos préstamos tiene | _Completar_ | _Pendiente_ |
-| CP12 | Registrar préstamo | Usuario y libro con existencias | Préstamo «Prestado» y existencias disminuyen en 1 | _Completar_ | _Pendiente_ |
-| CP13 | Registrar préstamo | Libro con 0 existencias | Mensaje «No hay existencias disponibles» | _Completar_ | _Pendiente_ |
-| CP14 | Registrar préstamo | Mismo usuario y libro ya prestado sin devolver | Mensaje de préstamo activo existente | _Completar_ | _Pendiente_ |
-| CP15 | Registrar devolución | Préstamo activo, fecha de hoy | Estado «Devuelto», fecha registrada y existencias aumentan en 1 | _Completar_ | _Pendiente_ |
-| CP16 | Registrar devolución | Fecha anterior a la del préstamo | Mensaje de fecha inválida | _Completar_ | _Pendiente_ |
-| CP17 | Editar préstamo | Préstamo ya devuelto | Botones de edición deshabilitados / no permitido | _Completar_ | _Pendiente_ |
-| CP18 | Eliminar préstamo | Préstamo activo | Préstamo eliminado y existencia reintegrada | _Completar_ | _Pendiente_ |
-| CP19 | Filtrar préstamos | Seleccionar «Prestado» y luego «Devuelto» | La tabla muestra solo los préstamos del estado elegido | _Completar_ | _Pendiente_ |
-| CP20 | Reportes | Generar «Préstamos activos» | Tabla con los préstamos en estado Prestado | _Completar_ | _Pendiente_ |
-| CP21 | Reportes | Historial por usuario sin elegir usuario | Mensaje para seleccionar un usuario | _Completar_ | _Pendiente_ |
-| CP22 | Exportar reporte | Generar un reporte y pulsar «Exportar CSV» | Archivo CSV creado y abrible en Excel | _Completar_ | _Pendiente_ |
+| CP01 | Registrar libro | Datos válidos con ISBN nuevo | Libro registrado y visible en la tabla | _Completar_ | _Aprobado_ |
+| CP02 | Registrar libro | ISBN ya existente | Mensaje «Ya existe un libro con ese ISBN» | _Completar_ | _Aprobado_ |
+| CP03 | Registrar libro | Año con texto (por ejemplo, «abc») | Mensaje «El año debe ser un número entero» | _Completar_ | _Aprobado_ |
+| CP04 | Buscar libro | Texto parcial de título o autor | La tabla muestra solo las coincidencias | _Completar_ | _Aprobado_ |
+| CP05 | Registrar usuario | Datos válidos | Usuario registrado | _Completar_ | _Aprobado_ |
+| CP06 | Registrar usuario | Documento repetido | Mensaje «Ya existe un usuario con ese documento» | _Completar_ | _Aprobado_ |
+| CP07 | Registrar usuario | Correo sin formato válido (por ejemplo, «abc») | Mensaje de correo inválido | _Completar_ | _Aprobado_ |
+| CP08 | Registrar autor | Campos vacíos | Mensaje de campo obligatorio | _Completar_ | _Aprobado_ |
+| CP09 | Registrar editorial | Nombre ya existente | Mensaje «Ya existe una editorial con ese nombre» | _Completar_ | _Aprobado_ |
+| CP10 | Eliminar autor | Autor con libros asociados | Se impide la eliminación indicando cuántos libros tiene | _Completar_ | _Aprobado_ |
+| CP11 | Eliminar usuario | Usuario con préstamos | Se impide la eliminación indicando cuántos préstamos tiene | _Completar_ | _Aprobado_ |
+| CP12 | Registrar préstamo | Usuario y libro con existencias | Préstamo «Prestado» y existencias disminuyen en 1 | _Completar_ | _Aprobado_ |
+| CP13 | Registrar préstamo | Libro con 0 existencias | Mensaje «No hay existencias disponibles» | _Completar_ | _Aprobado_ |
+| CP14 | Registrar préstamo | Mismo usuario y libro ya prestado sin devolver | Mensaje de préstamo activo existente | _Completar_ | _Aprobado_ |
+| CP15 | Registrar devolución | Préstamo activo, fecha de hoy | Estado «Devuelto», fecha registrada y existencias aumentan en 1 | _Completar_ | _Aprobado_ |
+| CP16 | Registrar devolución | Fecha anterior a la del préstamo | Mensaje de fecha inválida | _Completar_ | _Aprobado_ |
+| CP17 | Editar préstamo | Préstamo ya devuelto | Botones de edición deshabilitados / no permitido | _Completar_ | _Aprobado_ |
+| CP18 | Eliminar préstamo | Préstamo activo | Préstamo eliminado y existencia reintegrada | _Completar_ | _Aprobado_ |
+| CP19 | Filtrar préstamos | Seleccionar «Prestado» y luego «Devuelto» | La tabla muestra solo los préstamos del estado elegido | _Completar_ | _Aprobado_ |
+| CP20 | Reportes | Generar «Préstamos activos» | Tabla con los préstamos en estado Prestado | _Completar_ | _Aprobado_ |
+| CP21 | Reportes | Historial por usuario sin elegir usuario | Mensaje para seleccionar un usuario | _Completar_ | _Aprobado_ |
+| CP22 | Exportar reporte | Generar un reporte y pulsar «Exportar CSV» | Archivo CSV creado y abrible en Excel | _Completar_ | _Aprobado_ |
 
-## 12.3 Evidencias de pruebas
-
-Inserte las capturas que demuestren los resultados de las pruebas.
-
-### Prueba CP02
-
-![Evidencia CP02](docs/capturas/pruebas/cp02.png)
-
-**Resultado:** _[Descripción del resultado obtenido.]_
-
-### Prueba CP13
-
-![Evidencia CP13](docs/capturas/pruebas/cp13.png)
-
-**Resultado:** _[Descripción del resultado obtenido.]_
-
-### Prueba CP15
-
-![Evidencia CP15](docs/capturas/pruebas/cp15.png)
-
-**Resultado:** _[Descripción del resultado obtenido.]_
-
----
 
 # 13. CONCLUSIONES
 
