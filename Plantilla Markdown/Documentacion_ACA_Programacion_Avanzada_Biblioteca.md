@@ -13,7 +13,10 @@
 ### Sistema de Gestión de Biblioteca
 
 **Presentado por:**  
-Hernan Jose Vasquez Araujo
+Hernan Jose Vasquez Araujo 
+Juan Camilo Rodriguez Caro
+Maria Gabriela Julio Vasquez
+Sara Liney Garcia Camargo
 
 **Docente:**  
 Veronica Castro
@@ -29,9 +32,9 @@ Barranquilla, 7 de noviembre de 2026
 
 Proyecto desarrollado como evidencia del curso de **Programación Avanzada**, aplicando Programación Orientada a Objetos, base de datos relacional, arquitectura por capas, operaciones CRUD, validaciones, manejo de excepciones y conexión con SQL Server.
 
-**Estudiante:** Hernan Jose Vasquez Araujo  
+**Estudiantes:** Hernan Jose Vasquez Araujo, Juan Camilo Rodriguez Caro, Maria Gabriela Julio Vasquez, Sara Liney Garcia Camargo
 **Programa:** Ingeniería de Sistemas – Programación Avanzada  
-**Grupo:** [Grupo]  
+**Grupo:**   544469, 54467, 54463
 **Docente:** Veronica Castro  
 **Institución:** Corporación Universitaria Nacional de Educación Superior  
 **Año:** 2026
