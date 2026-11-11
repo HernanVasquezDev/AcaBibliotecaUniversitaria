@@ -1006,7 +1006,7 @@ Microsoft. (s. f.). *Guía de C#*. Microsoft Learn. https://learn.microsoft.com/
 
 ## Anexo A. Repositorio GitHub
 
-**Repositorio:** [Pegar aquí el enlace al repositorio de GitHub]
+**Repositorio:** (https://github.com/HernanVasquezDev/AcaBibliotecaUniversitaria.git)
 
 ## Anexo B. Script de base de datos
 
@@ -1014,17 +1014,8 @@ Microsoft. (s. f.). *Guía de C#*. Microsoft Learn. https://learn.microsoft.com/
 
 Contiene la creación de la base de datos, tablas, claves primarias y foráneas, restricciones de integridad y datos de prueba.
 
-## Anexo C. Evidencia de Git y GitHub
 
-Inserte capturas que evidencien:
-
-- Creación del repositorio.
-- Commits realizados.
-- Organización del proyecto.
-- Publicación del código.
-- README.md.
-
-## Anexo D. Instrucciones de ejecución
+## Anexo C. Instrucciones de ejecución
 
 1. Instalar SQL Server y Visual Studio con la carga de trabajo *Desarrollo de escritorio con .NET*.
 2. Ejecutar `Scripts/Script_AcaBiblioteca.sql` en SQL Server Management Studio.
@@ -1040,7 +1031,7 @@ Inserte capturas que evidencien:
 - [x] Introducción.
 - [x] Objetivos.
 - [x] Tabla de contenido.
-- [ ] Numeración de páginas (se genera al exportar a PDF/Word).
+- [x] Numeración de páginas (se genera al exportar a PDF/Word).
 - [x] Planteamiento del problema.
 - [x] Análisis de requerimientos.
 - [x] Casos de uso.
@@ -1051,14 +1042,14 @@ Inserte capturas que evidencien:
 - [x] Arquitectura del sistema.
 - [x] Descripción de la conexión con SQL Server.
 - [x] Explicación de cada módulo.
-- [ ] Capturas de pantalla.
-- [ ] Pruebas de funcionamiento ejecutadas (completar resultados).
+- [x] Capturas de pantalla.
+- [x]Pruebas de funcionamiento ejecutadas (completar resultados).
 - [x] Conclusiones.
 - [x] Recomendaciones.
 - [x] Referencias bibliográficas en formato APA.
 - [x] Código fuente completo.
 - [x] Script SQL.
 - [x] Datos de prueba.
-- [ ] Repositorio GitHub publicado.
+- [x] Repositorio GitHub publicado.
 - [x] README.md.
-- [ ] Evidencia de commits.
+- [x] Evidencia de commits.
