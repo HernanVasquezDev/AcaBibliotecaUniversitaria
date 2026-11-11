@@ -870,53 +870,49 @@ Cualquier reporte generado puede **exportarse a CSV** (codificación UTF-8, comp
 
 # 11. CAPTURAS DE PANTALLA DEL SISTEMA
 
-> **Instrucciones:** tome las capturas con la aplicación en ejecución, guárdelas en la carpeta `docs/capturas/` del repositorio con los nombres indicados y verifique que se visualicen. Una vez insertadas, elimine esta nota.
+> **Instrucciones:** las capturas de las interfaces se encuentran en la carpeta `Interfaces/` del repositorio.
 
 ## 11.1 Menú principal e inicio
 
-![Menú principal e inicio](docs/capturas/01-inicio.png)
+![Menú principal e inicio](Interfaces/Inicio.png)
 
 **Descripción:** formulario principal con el menú lateral de navegación y las tarjetas con los indicadores de la biblioteca.
 
 ## 11.2 Gestión de libros
 
-![Gestión de libros](docs/capturas/02-libros.png)
+![Gestión de libros](Interfaces/Libros.png)
 
 **Descripción:** formulario de libros con los campos de captura, las listas de autor y editorial, la búsqueda por ISBN, título o autor, y la tabla de libros con sus existencias.
 
 ## 11.3 Gestión de autores
 
-![Gestión de autores](docs/capturas/03-autores.png)
+![Gestión de autores](Interfaces/Autores.png)
 
 **Descripción:** registro, consulta, edición y eliminación de autores.
 
 ## 11.4 Gestión de editoriales
 
-![Gestión de editoriales](docs/capturas/04-editoriales.png)
+![Gestión de editoriales](Interfaces/Editoriales.png)
 
 **Descripción:** registro, consulta, edición y eliminación de editoriales.
 
 ## 11.5 Gestión de usuarios
 
-![Gestión de usuarios](docs/capturas/05-usuarios.png)
-
 **Descripción:** administración de los usuarios con documento, teléfono y correo.
 
 ## 11.6 Registro de préstamos y devoluciones
 
-![Gestión de préstamos](docs/capturas/06-prestamos.png)
+![Gestión de préstamos](Interfaces/Prestamos.png)
 
 **Descripción:** selección de usuario y libro, fechas, estado, botones de registrar, editar, devolver y eliminar, y tabla filtrable por estado.
 
 ## 11.7 Reportes
 
-![Reportes](docs/capturas/07-reportes.png)
+![Reportes](Interfaces/Reportes.png)
 
 **Descripción:** selección y generación de reportes, resultados en tabla y exportación a CSV.
 
 ## 11.8 Mensajes de validación
-
-![Mensajes de validación](docs/capturas/08-validaciones.png)
 
 **Descripción:** ejemplos de mensajes mostrados por el sistema ante datos inválidos, duplicados o restricciones de integridad.
 

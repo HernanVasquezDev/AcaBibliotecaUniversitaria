@@ -6,6 +6,8 @@ namespace AcaBiblioteca.Modelos
     public class Usuario : Persona
     {
         // Constantes para la validación de los campos
+    public class Usuario : Persona
+    {
         public const int LongitudMaximaDocumento = 30;
         public const int LongitudMaximaTelefono = 30;
         public const int LongitudMaximaCorreo = 150;
@@ -29,10 +31,12 @@ namespace AcaBiblioteca.Modelos
             Telefono = telefono;
             Correo = correo;
         }
-
+        /// <summary>Constructor que inicializa todos los campos del usuario, incluyendo el IdUsuario.</summary>
         public int IdUsuario { get; set; }
 
         /// <summary>Propiedad para el documento del usuario.</summary>
+
+        public int IdUsuario { get; set; }
 
         public string Documento
         {
