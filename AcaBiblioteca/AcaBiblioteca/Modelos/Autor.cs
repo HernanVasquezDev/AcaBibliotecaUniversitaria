@@ -2,15 +2,6 @@ namespace AcaBiblioteca.Modelos
 {
     public class Autor : Persona
     {
-        //getters y setters
-        public Autor()
-        {
-        }
-        //getters y setters
-        public Autor(string nombre, string apellido) : base(nombre, apellido)
-        {
-        }
-        //getters y setters
         public Autor()
         {
         }

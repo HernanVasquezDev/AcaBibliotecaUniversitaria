@@ -433,4 +433,4 @@
         private FontAwesome.Sharp.IconButton btnEliminar;
         private DataGridView dgvLibros;
     }
-}
+}

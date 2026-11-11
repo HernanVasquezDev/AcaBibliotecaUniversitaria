@@ -1,4 +1,4 @@
-﻿namespace AcaBiblioteca
+namespace AcaBiblioteca
 {
     partial class FrmPrestamos
     {

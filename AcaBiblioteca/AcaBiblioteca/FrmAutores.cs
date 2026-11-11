@@ -1,4 +1,4 @@
-﻿using System.Data;
+using System.Data;
 using AcaBiblioteca.Modelos;
 using AcaBiblioteca.Negocio;
 using AcaBiblioteca.Utilidades;
@@ -115,4 +115,3 @@ namespace AcaBiblioteca
         }
     }
 }
-

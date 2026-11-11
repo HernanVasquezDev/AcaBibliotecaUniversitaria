@@ -320,5 +320,3 @@ namespace AcaBiblioteca
         private Label lblCaptionTotalEditoriales;
     }
 }
-
-}

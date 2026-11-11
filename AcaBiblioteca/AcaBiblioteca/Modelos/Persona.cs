@@ -21,16 +21,6 @@ namespace AcaBiblioteca.Modelos
         {
         }
         /// <summary>Constructor protegido que inicializa nombre y apellido.</summary>
-        public const int LongitudMaximaNombre = 100;
-        public const int LongitudMaximaApellido = 100;
-
-        private string _nombre = string.Empty;
-        private string _apellido = string.Empty;
-
-        protected Persona()
-        {
-        }
-
         protected Persona(string nombre, string apellido)
         {
             Nombre = nombre;
