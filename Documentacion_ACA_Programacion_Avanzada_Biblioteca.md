@@ -1010,8 +1010,22 @@ Microsoft. (s. f.). *Guía de C#*. Microsoft Learn. https://learn.microsoft.com/
 
 Contiene la creación de la base de datos, tablas, claves primarias y foráneas, restricciones de integridad y datos de prueba.
 
+## Anexo C. Evidencia de Git y GitHub
 
-## Anexo C. Instrucciones de ejecución
+Insertar capturas que evidencien:
+
+-   Creación del repositorio.
+  (evidencias/Evidencias_Repo_GitHub.png)
+-   Commits realizados.
+  (evidencias/Evidencias_Commits.png)
+-   Organización del proyecto.
+  (evidencias/Evidencias_Repo_GitHub.png)
+-   Publicación del código.
+  - (evidencias/Evidencias_Repo_GitHub.png)
+-   README.md.
+  - (evidencias/Evidencias_README.png)
+
+## Anexo D. Instrucciones de ejecución
 
 1. Instalar SQL Server y Visual Studio con la carga de trabajo *Desarrollo de escritorio con .NET*.
 2. Ejecutar `Scripts/Script_AcaBiblioteca.sql` en SQL Server Management Studio.
